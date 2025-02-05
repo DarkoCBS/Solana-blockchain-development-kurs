@@ -8,3 +8,8 @@
    - CRUD aplikacija
    - Escrow aplikacija - rad sa tokenima
      
+## Korisni linkovi: 
+- https://doc.rust-lang.org/book/
+- https://solana.com/docs
+- https://solana.com/developers/guides
+- https://solana.com/developers/courses
